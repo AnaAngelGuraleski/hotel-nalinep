@@ -6,3 +6,19 @@ body{
     background-color: aliceblue;
     colo:var(--cor-de-fundo)
 }
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+img{
+    width: 20%;
+}
+.imagem{
+    width: 30%;
+}
+.apresentação{
+    display: flex;
+    background-color: aqua;
+    
+}
