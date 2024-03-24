@@ -1,1 +1,8 @@
-head
+:root{
+    --cor-de-fundo:#150263;
+    --cor-de-texto:#ffffff;
+}
+body{
+    background-color: aliceblue;
+    colo:var(--cor-de-fundo)
+}
