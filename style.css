@@ -7,6 +7,7 @@ body{
     colo:var(--cor-de-fundo)
 }
 header{
+    background-color: #150263;
     display: flex;
     align-items: center;
     justify-content: space-around;
