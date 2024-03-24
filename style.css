@@ -5,6 +5,7 @@
 body{
     background-color: #3360c9c7;
     colo:var(--cor-de-fundo)
+    display:flex;
 }
 header{
     background-color: #150263;
