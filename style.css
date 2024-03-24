@@ -1,6 +1,9 @@
 :root{
     --cor-de-fundo:#150263;
     --cor-de-texto:#ffffff;
+    display:flex;
+    margin: 8px;
+}
 }
 body{
     background-color: #3360c996;
