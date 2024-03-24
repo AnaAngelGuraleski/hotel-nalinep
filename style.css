@@ -3,7 +3,7 @@
     --cor-de-texto:#ffffff;
 }
 body{
-    background-color: rgba(0, 36, 121, 0.779);
+    background-color: #3360c9c7;
     colo:var(--cor-de-fundo)
 }
 header{
