@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=7">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <section class="apresentação" id="gg">
+        <title> <h1>Hotel</h1>
+            <h2>Naline</h2></title> 
+    </section>
+</head>
+
+<body>
+    <!--h para titulo-->
+    <head> 
+        
+        <img src="./imagens/hotel-presidente-.jpg" alt="hotel naline">
+        <h6>nalive</h6> <!--Aqui vai começar os botões-->
+        <p>texto</p> <!--Aqui vai terminar o segundo botão-->
+    </head>
+        <p>texto</p>
+        <p>texto2</p>
+    </div>
+    <img class="hotel naline" src="./imagens/hotel-presidente-.jpg" alt="suite">
+    
+</body>
+<footer>participantes</footer>
+
+</html>
