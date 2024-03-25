@@ -1,15 +1,10 @@
 :root{
     --cor-de-fundo:#150263;
     --cor-de-texto:#ffffff;
-    display:flex;
-    width:100%
-}
 }
 body{
     background-color: #3360c996;
-    color:var(--cor-de-fundo)
-    display:flex;
-    width:150%
+    colo:var(--cor-de-fundo)
 }
 header{
     background-color: #150263;
