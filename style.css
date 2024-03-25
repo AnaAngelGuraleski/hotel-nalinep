@@ -6,7 +6,7 @@
 }
 body{
     background-color: #3360c996;
-    colo:var(--cor-de-fundo)
+    color:var(--cor-de-fundo)
 }
 header{
     background-color: #150263;
