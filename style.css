@@ -2,6 +2,7 @@
     --cor-de-fundo:#150263;
     --cor-de-texto:#ffffff;
     display:flex;
+    width:100%
 }
 }
 body{
