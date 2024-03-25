@@ -23,5 +23,8 @@ img{
 .apresentação{
     display: flex;
     background-color: #150263;
-
+}
+baseboard { 
+    --cor-de-fundo:#150263;
+    --cor-de-texto:#ffffff;
 }
