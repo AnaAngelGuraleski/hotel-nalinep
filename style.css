@@ -16,10 +16,10 @@ header{
     justify-content: space-around;
 }
 img{
-    width: 20%;
+    width: 40%;
 }
 .imagem{
-    width: 30%;
+    width: 80%;
 }
 .apresentação{
     display: flex;
