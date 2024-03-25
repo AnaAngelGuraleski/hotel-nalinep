@@ -26,5 +26,7 @@ img{
 }
 baseboard {
     background-color: #150263;
-    
+    --cor-de-fundo:var(--cor-de-fundo)
+    --cor-de-texto:var(--cor-de-texto)
+
 }
