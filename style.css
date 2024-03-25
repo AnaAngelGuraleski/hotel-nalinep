@@ -7,7 +7,7 @@ body{
     colo:var(--cor-de-fundo)
 }
 header{
-    background-color: #150263;
+    background-color: #15026300;
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -22,7 +22,7 @@ img{
 }
 .apresentação{
     display: flex;
-    background-color: #150263;
+    background-color: #15026300;
 }
 baseboard { 
     --cor-de-fundo:#150263;
