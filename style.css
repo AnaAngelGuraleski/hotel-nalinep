@@ -8,6 +8,7 @@ body{
     background-color: #3360c996;
     color:var(--cor-de-fundo)
     display:flex;
+    width:150%
 }
 header{
     background-color: #150263;
@@ -16,10 +17,10 @@ header{
     justify-content: space-around;
 }
 img{
-    width: 150%;
+    width: 20%;
 }
 .imagem{
-    width: 80%;
+    width: 30%;
 }
 .apresentação{
     display: flex;
