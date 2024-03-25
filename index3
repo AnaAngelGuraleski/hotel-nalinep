@@ -26,8 +26,9 @@
     <img class="hotel naline" src="./imagens/hotel-presidente-.jpg" alt="suite">
     
 </body>
-<footer>
+<basebord>
     <h1>participantes</h1>
-    </footer>
-
+</basebord>
+    
+    
 </html>
