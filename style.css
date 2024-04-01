@@ -19,6 +19,7 @@ img{
 .imagem{
     width: 30%;
     display: flex;
+    justify-content: flex-end;
 }
 .apresentação{
     display: flex;
