@@ -15,11 +15,12 @@ header{
 img{
     width: 20%;
     display: flex;
+    justify-content: flex-end;
 }
 .imagem{
     width: 30%;
     display: flex;
-    justify-content: flex-end;
+    justify-content: space-around;
 }
 .apresentação{
     display: flex;
