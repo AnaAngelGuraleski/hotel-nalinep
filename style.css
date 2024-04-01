@@ -11,17 +11,16 @@ header{
     display: flex;
     align-items: center;
     justify-content: space-around;
- 
 }
 img{
     width: 20%;
     display: flex;
-    justify-content: flex-start;
+        /* justify-content: flex-end;
 }
 .imagem{
     width: 30%;
     display: flex;
-    justify-content: space-around;
+    justify-content: flex-end;
 }
 .apresentação{
     display: flex;
