@@ -1,5 +1,5 @@
 :root{
-    --cor-de-fundo:#150263;
+    --cor-de-fundo:#010631;
     --cor-de-texto:#ffffff;
 }
 body{
@@ -7,7 +7,7 @@ body{
     color:#ffffff;
 }
 header{
-    background-color: #150263;
+    background-color:#010631;
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -22,7 +22,7 @@ img{
 }
 .apresentação{
     display: flex;
-    background-color: #150263;
+    background-color: #010631;
 }
 baseboard {
     background-color: #150263;
