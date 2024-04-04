@@ -25,9 +25,14 @@ img{
 .apresentação{
     display: flex;
     background-color: #010631;
+    padding:padding: 20px;
+    border-radius:border-radius: 20px;
 }
 baseboard {
     background-color: #010631;
     --cor-de-fundo: #010631;
     --cor-de-texto: #ffffff;
 }
+.equipe{
+    display: grid;
+    grid-tempete-columns: 33% 33% 33%;
