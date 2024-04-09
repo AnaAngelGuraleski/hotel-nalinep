@@ -1,5 +1,5 @@
 :root{
-    --cor-de-fundo:#1E2550;
+    --cor-de-fundo:#010631;
     --cor-de-texto:#ffffff;
     --branco:var(--branco)
 }
@@ -13,6 +13,8 @@ header{
     display: flex;
     align-items: center;
     justify-content: space-around;
+    white-space: break-spaces;
+    width: 120%;
 }
 img{
     width: 20%;
