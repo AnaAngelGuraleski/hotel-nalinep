@@ -14,6 +14,9 @@ header{
     align-items: center;
     justify-content: space-around;
 }
+<section class= {
+    
+}
 img{
     width: 20%;
     display: flex;
@@ -42,5 +45,4 @@ baseboard {
     --cor-de-fundo: #010631;
     --cor-de-texto: #ffffff;
 }
-<section class= a
 
