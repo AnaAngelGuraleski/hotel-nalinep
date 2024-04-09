@@ -1,15 +1,15 @@
 :root{
-    --cor-de-fundo:#010631;
+    --cor-de-fundo:#1E2550;
     --cor-de-texto:#ffffff;
     --branco:var(--branco)
 }
 body{
-    background-color: #3360c996;
+    background-color: #000C7C;
     color:#ffffff;
 }
 /*figma para organizar*/
 header{
-    background-color:#010631;
+    background-color:#1E2550;
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -33,21 +33,21 @@ img{
     flex-wrap: wrap;
 }
 .baseboard {
-    --cor-de-fundo: #010631;
+    --cor-de-fundo: #1E2550;
     --cor-de-texto: #ffffff;
 }
 .equipe{
     display: flex;
     width: ;
     grid-template-columns: none;
-    --cor-de-fundo: #010631;
+    --cor-de-fundo: #1E2550;
     --cor-de-texto: #ffffff;
     padding:10px;
     flex-wrap: nowrap;
     justify-content: space-between;
 }
 .equipe{ 
-    background-color: #010631;
+    background-color: #1E2550;
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -57,3 +57,4 @@ img{
     flex-direction: row-reverse;
     justify-content: flex-start;
 }
+010631
