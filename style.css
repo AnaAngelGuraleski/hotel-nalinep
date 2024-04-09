@@ -37,11 +37,13 @@ img{
 }
 .equipe{
     display: flex;
-    width: 20px;
+    width: ;
     grid-template-columns: none;
     --cor-de-fundo: #010631;
     --cor-de-texto: #ffffff;
     padding:20px;
+    flex-wrap: nowrap;
+    justify-content: space-between;
 }
 .equipe{ 
     background-color: #010631;
