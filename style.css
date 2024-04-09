@@ -38,6 +38,7 @@ baseboard {
 }
 .equipe{
     display: grid;
+    width: 20px;
     grid-tempete-columns: 33% 33% 33%;
     --cor-de-fundo: #010631;
     --cor-de-texto: #ffffff;
