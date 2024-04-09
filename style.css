@@ -3,6 +3,9 @@
     --cor-de-texto:#ffffff;
     --branco:var(--branco)
 }
+head{
+    background-color:#010631;
+}
 body{
     background-color: #3360c996;
     color:#ffffff;
