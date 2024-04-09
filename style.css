@@ -39,7 +39,7 @@ img{
 }
 .equipe{
     display: flex;
-    width: 20%;
+    width: ;
     grid-template-columns: none;
     --cor-de-fundo: #1E2550;
     --cor-de-texto: #ffffff;
