@@ -9,7 +9,6 @@ body{
 }
 /*figma para organizar*/
 header{
-    background-color:#010631;
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -33,13 +32,13 @@ img{
 }
 }
 baseboard {
-
+    --cor-de-fundo: #010631;
     --cor-de-texto: #ffffff;
 }
 .equipe{
     display: grid;
     grid-tempete-columns: 33% 33% 33%;
-
+    --cor-de-fundo: #010631;
     --cor-de-texto: #ffffff;
 }
 <section class= a
