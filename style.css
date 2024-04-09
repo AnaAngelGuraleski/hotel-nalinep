@@ -37,7 +37,7 @@ img{
     --cor-de-texto: #ffffff;
 }
 .equipe{
-    display: grid;
+    display: flex;
     width: 20px;
     grid-template-columns: none;
     --cor-de-fundo: #010631;
