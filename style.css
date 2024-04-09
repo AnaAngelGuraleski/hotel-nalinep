@@ -39,7 +39,7 @@ img{
 .equipe{
     display: grid;
     width: 20px;
-    grid-tempete-columns: 33% 33% 33%;
+    grid-template-columns: none;
     --cor-de-fundo: #010631;
     --cor-de-texto: #ffffff;
     padding:padding: 20px;
