@@ -1,11 +1,13 @@
 :root{
     --cor-de-fundo:#010631;
     --cor-de-texto:#ffffff;
+    --branco:var(--branco)
 }
 body{
     background-color: #3360c996;
     color:#ffffff;
 }
+/*figma para organizar*/
 header{
     background-color:#010631;
     display: flex;
@@ -15,7 +17,7 @@ header{
 img{
     width: 20%;
     display: flex;
-        /* justify-content: flex-end;
+    justify-content: flex-end;
 }
 .imagem{
     width: 30%;
@@ -26,7 +28,10 @@ img{
     display: flex;
     background-color: #010631;
     padding:padding: 20px;
-    border-radius:border-radius: 20px;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+}
 }
 baseboard {
     background-color: #010631;
@@ -36,3 +41,6 @@ baseboard {
 .equipe{
     display: grid;
     grid-tempete-columns: 33% 33% 33%;
+}
+<section class= a
+
