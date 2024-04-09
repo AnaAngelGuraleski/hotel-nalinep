@@ -52,3 +52,8 @@ img{
     align-items: center;
     justify-content: space-around;
 }
+.div style{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-start;
+}
