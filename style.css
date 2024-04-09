@@ -39,6 +39,8 @@ baseboard {
 .equipe{
     display: grid;
     grid-tempete-columns: 33% 33% 33%;
+    --cor-de-fundo: #010631;
+    --cor-de-texto: #ffffff;
 }
 <section class= a
 
