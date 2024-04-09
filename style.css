@@ -9,12 +9,12 @@ body{
 }
 /*figma para organizar*/
 header{
-    background-color:#010631;
+    background-color:#1E2550;
     display: flex;
     align-items: center;
     justify-content: space-around;
     white-space: break-spaces;
-    width: 120%;
+    width: 90%;
 }
 img{
     width: 20%;
