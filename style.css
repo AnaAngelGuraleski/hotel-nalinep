@@ -47,6 +47,8 @@ img{
     border-radius: 20px;
 }
 .body{
-     --cor-de-fundo: #010631;
-    --cor-de-texto: #ffffff;
+    background-color: #010631;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
 }
