@@ -41,7 +41,7 @@ img{
     grid-template-columns: none;
     --cor-de-fundo: #010631;
     --cor-de-texto: #ffffff;
-    padding:20px;
+    padding:10px;
     flex-wrap: nowrap;
     justify-content: space-between;
 }
