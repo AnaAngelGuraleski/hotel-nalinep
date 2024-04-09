@@ -32,7 +32,7 @@ img{
     border-radius: 20px;
 }
 }
-baseboard {
+.baseboard {
     --cor-de-fundo: #010631;
     --cor-de-texto: #ffffff;
 }
@@ -42,6 +42,10 @@ baseboard {
     grid-tempete-columns: 33% 33% 33%;
     --cor-de-fundo: #010631;
     --cor-de-texto: #ffffff;
+    padding:padding: 20px;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
 }
 .imagem{
     
