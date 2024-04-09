@@ -33,7 +33,8 @@ img{
 }
 }
 baseboard {
-  
+    --cor-de-fundo: #010631;
+    --cor-de-texto: #ffffff;
 }
 .equipe{
     display: grid;
