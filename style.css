@@ -25,7 +25,7 @@ img{
     display: flex;
     justify-content: flex-end;
 }
-.apresentação{
+.imagem{
     display: flex;
     padding:padding: 20px;
     margin: 20px;
@@ -62,4 +62,8 @@ img{
     flex-direction: row-reverse;
     justify-content: flex-start;
 }
-010631
+.footer{
+    background-color: #010631;
+    color: #ffffff;
+    
+}
