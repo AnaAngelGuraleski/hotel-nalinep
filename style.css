@@ -68,3 +68,7 @@ img{
     justify-content: space-around;
     background-color: #010631
 }
+a{
+    color: #ffffff;
+text-decoration: wavy;
+}
