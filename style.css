@@ -65,5 +65,6 @@ img{
 .footer{
     background-color: #010631;
     color: #ffffff;
-    
+    align-items: center;
+    justify-content: space-around;
 }
