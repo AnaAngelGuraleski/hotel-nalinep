@@ -47,6 +47,9 @@ img{
     flex-wrap: nowrap;
     justify-content: space-between;
 }
+.header{
+    display: flex;
+}
 .equipe{ 
     background-color: #1E2550;
     display: flex;
