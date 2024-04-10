@@ -1,74 +1,82 @@
-:root{
-    --cor-de-fundo:#1E2550;
-    --cor-de-texto:#ffffff;
-    --branco:var(--branco)
+:root {
+    --cor-de-fundo: #1E2550;
+    --cor-de-texto: #ffffff;
+    --branco: var(--branco)
 }
-body{
+
+body {
     background-color: #8A8FC3;
-    color:#ffffff;
+    color: #ffffff;
 }
+
 /*figma para organizar*/
-header{
-    background-color:#1E2550;
+header {
+    background-color: #1E2550;
     display: flex;
     align-items: center;
     justify-content: space-around;
     white-space: break-spaces;
 }
-img{
+
+img {
     width: 20%;
     display: flex;
     justify-content: flex-end;
 }
-.imagem{
+
+.imagem {
     width: 30%;
     display: flex;
     justify-content: flex-end;
 }
-.imagem{
+
+.imagem {
     display: flex;
-    padding:padding: 20px;
+    padding: padding: 20px;
     margin: 20px;
     padding: 20px;
     border-radius: 20px;
     flex-wrap: wrap;
 }
+
 .baseboard {
     --cor-de-fundo: #1E2550;
     --cor-de-texto: #ffffff;
 }
-.equipe{
+
+.equipe {
     display: flex;
     width: ;
     grid-template-columns: none;
     --cor-de-fundo: #1E2550;
     --cor-de-texto: #ffffff;
-    padding:10px;
+    padding: 10px;
     flex-wrap: nowrap;
     justify-content: space-between;
 }
-.p{
-    display: flex;
-    justify-content: flex-start;
-}
-#equipe{ 
+
+
+#equipe {
     background-color: #1E2550;
     display: flex;
     align-items: center;
     justify-content: space-around;
-    
-.div style{
+}
+
+div {
     display: flex;
     flex-direction: row-reverse;
     justify-content: flex-start;
 }
-.footer{
+
+footer {
     display: flex;
     align-items: center;
     justify-content: space-around;
     background-color: #010631
 }
-footer a{
+
+header a {
     color: #ffffff;
     text-decoration: wavy;
 }
