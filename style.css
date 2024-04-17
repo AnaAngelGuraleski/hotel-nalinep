@@ -61,3 +61,8 @@ header a {
 h5{
     margin:0;
 }
+
+section class{
+    background-color: var(--cor-de-fundo);
+    padding: 2px 51px;
+}
