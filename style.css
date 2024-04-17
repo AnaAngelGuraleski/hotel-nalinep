@@ -1,12 +1,12 @@
 :root {
-    --cor-de-fundo: #1E2550;
+    --cor-de-fundo: #8A8FC3;
     --cor-de-texto: #ffffff;
-    --branco: var(--branco)
+    --principais: #1E2550;
 }
 
 body {
-    background-color: #8A8FC3;
-    color: #ffffff;
+    background-color: var(--cor-de-fundo);
+    color: hsl(0, 0%, 100%);
 }
 
 /*figma para organizar*/
@@ -32,24 +32,23 @@ img {
 
 .imagem {
     display: flex;
-    padding: padding: 20px;
+    padding: 20px;
     margin: 20px;
     padding: 20px;
     border-radius: 20px;
     flex-wrap: wrap;
 }
 
-.baseboard {
+/* .baseboard {
     --cor-de-fundo: #1E2550;
     --cor-de-texto: #ffffff;
-}
+} */
 
 .equipe {
     display: flex;
-    width: ;
     grid-template-columns: none;
-    --cor-de-fundo: #1E2550;
-    --cor-de-texto: #ffffff;
+    /* --cor-de-fundo: #1E2550;
+    --cor-de-texto: #ffffff; */
     padding: 10px;
     flex-wrap: nowrap;
     justify-content: space-between;
