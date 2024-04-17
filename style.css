@@ -47,10 +47,10 @@ img {
 
 
 #equipe {
-    display: flex;
+
     grid-template-columns: 33% 33% 33%;
     background-color: #1E2550;
-    display: flex;
+    display: grid;
     align-items: center;
     justify-content: space-around;
 }
