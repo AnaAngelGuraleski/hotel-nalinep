@@ -58,3 +58,6 @@ section class{
     background-color: var(--cor-de-fundo);
     padding: 2px 51px;
 }
+apresentação{
+    display: flex;
+}
