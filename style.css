@@ -24,10 +24,7 @@ img {
 
 }
 
-.imagem {
-    width: 30%;
 
-}
 
 #equipe {
 
@@ -70,4 +67,5 @@ apresentação{
 
 .direita{
     display: flex;
+    justify-content: right;
 }
