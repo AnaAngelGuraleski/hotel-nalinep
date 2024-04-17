@@ -52,7 +52,7 @@ img {
     background-color: #1E2550;
     display: grid;
     align-items: center;
-    justify-content: space-around;
+    text-align: center;
 }
 
 footer {
@@ -65,4 +65,8 @@ footer {
 header a {
     color: #ffffff;
     text-decoration: wavy;
+}
+
+h5{
+    margin:0;
 }
