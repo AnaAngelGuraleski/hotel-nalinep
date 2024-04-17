@@ -26,18 +26,10 @@ img {
 
 .imagem {
     width: 30%;
-    display: flex;
-    justify-content: flex-end;
+
 }
 
-.imagem {
-    display: flex;
-    padding: 20px;
-    margin: 20px;
-    padding: 20px;
-    border-radius: 20px;
-    flex-wrap: wrap;
-}
+
 
 /* .baseboard {
     --cor-de-fundo: #1E2550;
