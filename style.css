@@ -60,4 +60,14 @@ section class{
 }
 apresentação{
     display: flex;
+    
+
+}
+
+.esqueda{
+    display: flex;
+}
+
+.direita{
+    display: flex;
 }
