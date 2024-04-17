@@ -12,7 +12,7 @@ body {
 
 /*figma para organizar*/
 header {
-    background-color: var(--principais)
+    background-color:var(--principais); 
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -29,11 +29,6 @@ img {
 
 }
 
-
-
-
-
-
 #equipe {
 
     grid-template-columns: 10% 30% 30% 30%;;
@@ -47,11 +42,11 @@ footer {
     display: flex;
     align-items: center;
     justify-content: space-around;
-    background-color: var(--principais);
+    background-color:var(--principais);
 }
 
 header a {
-    color: var(--cor-de-texto);
+    color:var(--cor-de-texto);
     text-decoration: wavy;
 }
 
