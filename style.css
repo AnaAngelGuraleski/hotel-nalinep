@@ -44,18 +44,11 @@ img {
     --cor-de-texto: #ffffff;
 } */
 
-.equipe {
-    display: flex;
-    grid-template-columns: none;
-    /* --cor-de-fundo: #1E2550;
-    --cor-de-texto: #ffffff; */
-    padding: 10px;
-    flex-wrap: nowrap;
-    justify-content: space-between;
-}
 
 
 #equipe {
+    display: flex;
+    grid-template-columns: 33% 33% 33%;
     background-color: #1E2550;
     display: flex;
     align-items: center;
