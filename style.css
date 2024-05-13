@@ -31,6 +31,7 @@ img {
     display: grid;
     align-items: center;
     text-align: center;
+    width: 10%;
 }
 
 footer {
