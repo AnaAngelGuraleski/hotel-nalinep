@@ -50,7 +50,7 @@ h5{
 }
 
 #apresentação{
-    background-color: var(--cor);
+    background-color: var(--principais);
     display: flex;
     justify-content: flex-start;
 }
@@ -63,8 +63,4 @@ h5{
 .direita{
     display: flex;
     flex-direction: row-reverse;
-}
-
-section{
-    background-color: var(--cor);
 }
