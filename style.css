@@ -12,7 +12,7 @@ body {
 
 /*figma para organizar*/
 header {
-    background-color:var(--principais); 
+    background-color:var(--cor); 
     display: flex;
     align-items: center;
     justify-content: space-evenly;
