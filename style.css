@@ -49,7 +49,7 @@ h5{
     margin: 0px;
 }
 
-#apresentação {
+.apresentaçãog {
     background-color: var(--principais);
     display: flex;
     justify-content: flex-start;
