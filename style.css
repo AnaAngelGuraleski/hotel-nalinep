@@ -12,7 +12,7 @@ body {
 
 /*figma para organizar*/
 header {
-    background-color:var(--cor); 
+    background-color:var(--principais); 
     display: flex;
     align-items: center;
     justify-content: space-evenly;
@@ -49,6 +49,12 @@ h5{
     margin:0;
 }
 
+apresentação{
+    background-color: var(--cor);
+    padding: 2px 51px;
+    display: flex;
+}
+
 
 .esqueda{
     display: flex;
@@ -57,10 +63,4 @@ h5{
 .direita{
     display: flex;
     justify-content: right;
-
-}
-.apresentação{
-    display: grid;
-    background-color: var(--cor);
-    padding: 2px 51px;
 }
