@@ -49,16 +49,6 @@ h5{
     margin:0;
 }
 
-section class{
-    background-color: var(--cor);
-    padding: 2px 51px;
-}
-apresentação{
-    display: flex;
-    
-
-}
-
 .esqueda{
     display: flex;
 }
@@ -66,4 +56,9 @@ apresentação{
 .direita{
     display: flex;
     justify-content: right;
+}
+apresentação_{
+    display: grid;
+    background-color: var(--cor);
+    padding: 2px 51px;
 }
