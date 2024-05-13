@@ -57,8 +57,7 @@ h5{
 .direita{
     display: flex;
     justify-content: right;
-    justify-content: flex-start;
-    align-items: stretch;
+
 }
 .apresentação{
     display: grid;
