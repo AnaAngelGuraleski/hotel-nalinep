@@ -53,14 +53,19 @@ h5{
     background-color: var(--principais);
     display: flex;
     justify-content: flex-start;
+    font-size: 20px;
 }
 
 
 .esqueda{
     display: flex;
+    font-size: 20px;
 }
 
 .direita{
     display: flex;
     flex-direction: row-reverse;
+    font-size: 20px;
 }
+
+font-size: 20px;
