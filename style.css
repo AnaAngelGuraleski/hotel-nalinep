@@ -9,6 +9,7 @@ body {
     background-color: var(--cor-de-fundo);
     color: hsl(0, 0%, 100%);
     margin: auto;
+    font-size: 20px;
 }
 
 /*figma para organizar*/
@@ -49,7 +50,7 @@ h5{
     margin: 0px;
 }
 
-#apresentação {
+.apresentação {
     background-color: var(--principais);
     display: flex;
     justify-content: flex-start;
