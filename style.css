@@ -62,7 +62,6 @@ h5{
 
 .direita{
     display: flex;
-
     flex-direction: row-reverse;
 }
 
