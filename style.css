@@ -21,7 +21,6 @@ header {
 
 img {
     width: 10%;
-
 }
 
 
@@ -64,4 +63,8 @@ h5{
 .direita{
     display: flex;
     flex-direction: row-reverse;
+}
+
+section{
+    background-color: var(--cor);
 }
