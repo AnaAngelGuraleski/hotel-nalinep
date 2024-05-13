@@ -62,17 +62,17 @@ h5{
 
 .esqueda{
     display: flex;
-    font-size: 20px;
+    font-size: 30px;
 }
 
 .direita{
     display: flex;
     flex-direction: row-reverse;
-    font-size: 20px;
+    font-size: 30px;
 }
 
 #imagem {
-    font-size: 20px;
+    font-size: 30px;
     padding: 10px;
 }
 
