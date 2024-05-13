@@ -50,9 +50,8 @@ h5{
 }
 
 #apresentação{
-    background-color: var(--cor);
-    padding: 2px 51px;
-    display: flex;
+    background-color: var(--principais);
+
 }
 
 
