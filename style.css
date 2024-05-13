@@ -52,7 +52,7 @@ h5{
 #apresentação{
     background-color: var(--cor);
     display: flex;
-    unicode-bidi: isolate;
+    justify-content: flex-start
 }
 
 
