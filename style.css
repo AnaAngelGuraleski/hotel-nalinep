@@ -2,7 +2,7 @@
     --cor-de-fundo: #8A8FC3;
     --cor-de-texto: #ffffff;
     --principais: #1E2550;
-    --
+    --cor:#010631;
 }
 
 body {
@@ -38,7 +38,7 @@ footer {
     display: flex;
     align-items: center;
     justify-content: space-around;
-    background-color:var(--principais);
+    background-color: var(--cor);
 }
 
 header a {
@@ -51,7 +51,7 @@ h5{
 }
 
 section class{
-    background-color: var(--cor-de-fundo);
+    background-color: var(--cor);
     padding: 2px 51px;
 }
 apresentação{
