@@ -19,7 +19,7 @@ header {
 }
 
 img {
-    width: 20%;
+    width: 10%;
 
 }
 
@@ -49,7 +49,7 @@ h5{
     margin:0;
 }
 
-apresentação a{
+#apresentação{
     background-color: var(--cor);
 
 }
